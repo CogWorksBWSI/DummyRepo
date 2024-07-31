@@ -1,0 +1,4 @@
+cust_cont_resn_cd_assn_id,resn_cd,cntry_cd,clrnc_pcdr_txt,resn_desc,resn_type_txt,eff_start_dt,eff_end_dt,crte_by_user_id,crte_on_dt,updt_by_user_id,updt_on_dt,delt_on_dt
+131,VCURR,BE,Exports,SIT testing_verifyCurrencyAndProceed,CURR,06/20/24 08:51 PM,06/19/24 12:00 PM,6266326,06/19/24 03:22 PM,6266326,06/19/24 03:39 PM,
+130,ADMEX,BE,Exports,SIT testing_regulatoryDelay,REG,06/19/24 08:41 PM,,6266326,06/19/24 03:12 PM,,,
+129,VCURR,BE,Exports,SIT testing_verifyCurrency,CURR,06/19/24 08:41 PM,06/20/24 08:51 PM,6266326,06/19/24 03:11 PM,SYSTEM,06/19/24 03:22 PM,
